@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkAndVibe
-- 👀 I’m interested in sql, java, python, lims basic
+- 👀 I’m interested in sql, java, python, lims
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me: mail: fiaskvalerka@yandex.ru / tg: @DarkVibe777
